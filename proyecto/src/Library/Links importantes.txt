@@ -1,0 +1,37 @@
+Debugging
+	https://code.visualstudio.com/docs/editor/debugging
+
+Testing
+	https://docs.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-dotnet-test
+
+Principios y patrones
+	https://github.com/ucudal/PII_Principios_Patrones
+
+Tipos
+	https://github.com/ucudal/PII_Conceptos_De_POO/tree/master/Capitulos/2_Tipos
+
+Tipos Genericos
+	https://github.com/ucudal/PII_Conceptos_De_POO/blob/master/Capitulos/3_Tipos_Genericos/3_1_Contenido.md#1-tipos-gen%C3%A9ricos
+
+Herencia - Agregacion
+	https://github.com/ucudal/PII_Conceptos_De_POO/tree/master/Capitulos/5_Herencia_Agregacion
+
+Interfaces 
+	https://docs.microsoft.com/es-es/dotnet/csharp/fundamentals/types/interfaces
+
+Diseño por contrato
+	https://github.com/ucudal/PII_Conceptos_De_POO/blob/master/Capitulos/4_Programar_Contra_Especificaciones/4_1_Dise%C3%B1o_Por_Contrato.md#4-programar-contra-especificaciones
+
+ Patron Pipes and Filters
+	https://docs.microsoft.com/es-es/azure/architecture/patterns/pipes-and-filters
+
+Excepciones 
+	https://github.com/ucudal/PII_Excepciones
+	https://docs.microsoft.com/es-es/dotnet/standard/exceptions/
+	https://docs.microsoft.com/es-es/dotnet/standard/exceptions/how-to-use-the-try-catch-block-to-catch-exceptions
+
+Todos los comandos de git
+	https://education.github.com/git-cheat-sheet-education.pdf
+
+
+
